@@ -1,0 +1,11 @@
+{
+  "name": "random-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/McCarthey/random-info.git",
+  "author": "Dean <mccarthey123@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mockjs": "^1.0.1-beta3"
+  }
+}
