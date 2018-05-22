@@ -1,0 +1,1 @@
+export const random_info = [{"fakeId":"fake0","name":"乔静","job":"平在。","company":"满单话级类质时看存程。"},{"fakeId":"fake1","name":"杜勇","job":"增增你。","company":"况领也如应史。"},{"fakeId":"fake2","name":"田强","job":"万同。","company":"程置路活道容但建。"}]
